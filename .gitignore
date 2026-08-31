@@ -1,0 +1,7 @@
+build/
+jpm_tree/
+*.so
+*.dll
+*.dylib
+ribbit-jaylib
+smoke.png
